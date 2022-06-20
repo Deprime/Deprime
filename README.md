@@ -34,6 +34,12 @@ My passion is software development, sport, traveling and astrophysics.
 
 ---
 
-### 📊 Stats :
+### 📊 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deprime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏗️ Projects:
+
+* TubeHub - video hosting and streaming platform ([Api](https://github.com/Deprime/tubehub-api) and SPA)
