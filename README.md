@@ -42,4 +42,4 @@ My passion is software development, sport, traveling and astrophysics.
 
 ### 🏗️ Projects:
 
-* TubeHub - video hosting and streaming platform ([Api](https://github.com/Deprime/tubehub-api) and SPA)
+* [Mapsis.app](https://mapsis.app) - a marketplace for everything
