@@ -2,9 +2,9 @@
 
 My name is Andrew. I'm a full stack developer.
 
-Currently I'm working at ✨ awesome edtech company KnowledgeCity LLC ✨ as a full stack web developer. 
+Currently I'm working at ✨ awesome finthech company MTrading LLC ✨ as a senior frontend developer. 
 
-My passion is software development, sport, traveling and astrophysics.
+My passion is software development, sci-fi, sport, traveling and astrophysics.
 
 <div id="badges" class="social-media">
   <a href="https://vk.com/depri_me" target="_blank">
